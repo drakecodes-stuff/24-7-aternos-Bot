@@ -29,11 +29,14 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
         "I'm a regular player",
         "Tung Tung Sahur",
-        "Spiderman > Ironman"
+        "Spiderman > Ironman",
+        "Alone At The Edge OF The Universe....",
+        "are you having fun?",
+        "Your Life Is Worth IT!"
       ]
     },
     "chat-log": true,
